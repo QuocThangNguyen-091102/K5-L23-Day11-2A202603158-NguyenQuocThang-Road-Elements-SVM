@@ -56,7 +56,7 @@ Cách đặt tag ảnh trên bản CVAT này: chọn công cụ **Tag** ở than
 ## 4. Phiếu QC 1 nhận được
 Bạn kiểm lô của tôi: không có. Tôi không tìm được bạn để đổi lô review chéo, nên tự kiểm lô của mình.    Quyết định nhận được (từ phiếu tự kiểm): **Hold**  
 
-Tôi tự kiểm lô của mình theo đúng mẫu Phiếu QC 1 (file `NguyenQuocThang-qc1-for-NguyenQuangThuc.md`, 6 ảnh, 44 nhãn). Kết quả: 0 lỗi nặng, 0 lỗi chính. Quyết định là **Hold** vì còn 3 ca mơ hồ chờ lead trả lời. Các lỗi tìm ra khi tự kiểm, đã sửa trước khi nộp revision 1:
+Tôi tự kiểm lô của mình theo đúng mẫu Phiếu QC 1 (file `nguyenquocthang-qc1-for-nguyenquangthuc.md`, 6 ảnh, 44 nhãn). Kết quả: 0 lỗi nặng, 0 lỗi chính. Quyết định là **Hold** vì còn 3 ca mơ hồ chờ lead trả lời. Các lỗi tìm ra khi tự kiểm, đã sửa trước khi nộp revision 1:
 
 | Mã lỗi | Số lỗi | Đồng ý? | Đã sửa? |
 | --- | ---: | --- | --- |
